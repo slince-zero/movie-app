@@ -1,11 +1,11 @@
-# 项目预览
+## 项目预览
 ![snip](./public/movie1.png)
 
 
 
 ![snip](./public/movie2.png)
 
-# 运行
+## 运行
 
 ```
 克隆项目
@@ -17,7 +17,7 @@ npm i
 npm run dev
 ```
 
-# 介绍
+## 介绍
 
 一个简单的 React 应用，用于测试和学习 React 的基础知识。
 主要涉及到两个 Hook: `useEffect` 和 `useState`。
