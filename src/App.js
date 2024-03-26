@@ -16,7 +16,7 @@ function App() {
   }
 
   useEffect(() => {
-    searchMovies('spiderman')
+    searchMovies('spiderman') // 这个是给默认值
   }, [])
   return (
     <div className='app'>
